@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_motivation"
+        android:icon="@drawable/motivation"
+        android:title="@string/title_motivation" />
+
+    <item
+        android:id="@+id/placeholder"
+        android:title="" />
+
+    <item
+        android:id="@+id/navigation_music"
+        android:icon="@drawable/ic_baseline_library_music_24"
+        android:title="@string/title_music" />
+
+    <item
+        android:id="@+id/navigation_aboutus"
+        android:icon="@drawable/about_us"
+        android:title="@string/title_aboutus" />
+
+</menu>
